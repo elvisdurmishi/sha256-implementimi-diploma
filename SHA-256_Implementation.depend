@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624565763 source:c:\users\baci\documents\sha-256_implementation\src\sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1624565750 c:\users\baci\documents\sha-256_implementation\include\sha256.h
+	<string>
+
+1624567150 source:c:\users\baci\documents\sha-256_implementation\main.cpp
+	<iostream>
+	"sha256.h"
+
