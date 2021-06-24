@@ -5,4 +5,4 @@ Ky kod i thjeshte ekzekuton algoritmin SHA-256 per inputin "informatike" + nje c
 
 # Falenderime per zedwood
 
-[Linku per kodin e algoritmit]: http://www.zedwood.com/article/cpp-sha256-function
+[Linku per kodin e algoritmit](http://www.zedwood.com/article/cpp-sha256-function)
